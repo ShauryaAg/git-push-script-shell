@@ -5,6 +5,9 @@ Shell Script to help people push on remote repository
 Clone the repo on to your local machine and copy the desired file into your working directory and open the file by double clicking on it OR by opening it using command line.
 Note: It always adds all the files in the directory
 
+### Note:
+Before executing, make the file executable by using ```chmod +x gitCommit.sh``` in the command line
+
 ###### By Double-Clicking:
 You will prompted to input the remote URL of the repo where the files are to be pushed.
 
